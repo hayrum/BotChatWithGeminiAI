@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatWithGeminiApp</string>
+    <string name="title_activity_chat_screen">ChatScreen</string>
+</resources>
